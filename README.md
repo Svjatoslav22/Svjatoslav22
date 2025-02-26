@@ -13,6 +13,6 @@
 - VS Code  
 
 
-Langouage and Tools 
-
-Follow me
+## 📫 Контакти  
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/holy_index22)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ttwaq_/following/)  
