@@ -1,4 +1,4 @@
-[![Header](https://github.com/Svjatoslav22/Svjatoslav22/blob/main/assets/sky.gif)](https://www.tiktok.com/@ttwaq_)
+[![Header](<img src="https://github.com/Svjatoslav22/Svjatoslav22/blob/main/assets/sky.gif" width="880px" alt="Header">)](https://www.tiktok.com/@ttwaq_)
 
 About me
 
