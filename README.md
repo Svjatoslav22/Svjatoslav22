@@ -1,14 +1,12 @@
-[![Header](https://github.com/Svjatoslav22/Svjatoslav22/blob/main/assets/swipe.gif)](https://www.tiktok.com/@ttwaq_)
 
-# Привіт, я Святослав! 👋
-
-Full-stack розробник-початківець
+![Header](https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&text=Hello,%20I'm%20Svyatoslav&animation=twinkling)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Full-stack+Developer;Welcome+to+my+profile)
 
 ### 🛠 Технології, які я використовую:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,git,vscode,figma)](https://skillicons.dev)
 ---
 
-### 🚀 Проекти, над якими зараз працюю:
+### Проекти, над якими зараз працюю:
 
 * **STETI Hub** — веб-платформа для студентів мого коледжу.
 * **/creator IT Academy** — розробка онлайн-магазину мерчу.
