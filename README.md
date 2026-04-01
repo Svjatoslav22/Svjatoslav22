@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Full-stack+Developer;Welcome+to+my+profile)
 
 ### 🛠 Технології, які я використовую:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,git,vscode,figma,postman,github,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,express,git,github,vscode,figma,postman)](https://skillicons.dev)
 ---
 
 ### Проекти, над якими зараз працюю:
