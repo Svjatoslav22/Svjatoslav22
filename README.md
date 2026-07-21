@@ -25,6 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Svjatoslav22&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" alt="Svyatoslav's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svjatoslav22&layout=compact&theme=tokyonight&cache_seconds=86400&v=1" alt="Top Langs" />
 </div>
+
 ---
 
 ### 📫 Як мене знайти:
